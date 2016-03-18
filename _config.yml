@@ -1,0 +1,28 @@
+name: weavinglights
+favicon: null
+layout_spectrum: 0.9887149899732322
+typography_spectrum: 0.46507900045253336
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5315571106038988
+  lightness: 0.0677783889696002
+  saturation: 0.9362624201457947
+  rhythmicContrast: 0.5841304855421185
+purpose: []
